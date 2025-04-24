@@ -1,0 +1,1 @@
+This is repository for STM32 used in VILNIUS TECH TLKC Autonomous Car Model RC Car platform to control motor and steering, and ultrasound sensors. This should be openned with STM32CubeIDE 1.15.0 or 1.15.1 for compatibility reasons.
